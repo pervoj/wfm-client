@@ -4,7 +4,7 @@
     
     <groupId>com.github.pervoj</groupId>
     <artifactId>wfm-client</artifactId>
-    <version>1.0-alpha.3</version>
+    <version>0.0.1-alpha.3</version>
     <packaging>jar</packaging>
     
     <properties>
